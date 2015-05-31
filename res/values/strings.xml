@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">文件加密管理器</string>
+    <string name="action_settings">设置</string>
+    <string name="access_denied">权限拒绝</string>
+    <string name="cant_open_dir">您没有对此文件夹操作的权限</string>
+    <string name="empty_folder">文件夹是空的</string>
+    <string name="querying_filesys">正在浏览文件系统... 请稍等~</string>
+    <string name="crypt_files">文件正在转换~~~请稍候···</string>
+</resources>
